@@ -1,2 +1,2 @@
-# DL_cave
-This is my deep learning repository
+# Handwritten Digit recognizer
+MNIST dataset was used here.
